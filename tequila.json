@@ -1,0 +1,94 @@
+{    
+    "tequila" : [
+        
+        {
+            "name" : "Olmeca Tezón Añejo",
+            "image" : "tazonA.png",
+            "description" : "Tezón's Añejo has an amber color and rich flavor. It is produced using a Tahona, an ancient volcanic millstonne.",
+            "info" : [
+                {
+                    "distiller" : "Hacienda de Oro, S.A. de C.V.",
+                    "location" : "Arandas, Jalisco, MX",
+                    "type" : "Añejo",
+                    "priceSource" : "Ramirez Liquor",
+                    "price" : 53.99
+                }
+            ]
+        },
+        
+        {
+            "name" : "El Tesoro de Don Felipe Reposado",
+            "image" : "elTesoroR.png",
+            "description" : "El Tesoro Reposado is rich and mellow. Aged for eight to eleven months, it is a well-rested reposado.",
+            "info" : [
+                {
+                    "distiller" : "Tequila Tapatio, S.A. de C.V.",
+                    "location" : "Arandas, Jalisco, MX",
+                    "type" : "Reposado",
+                    "priceSource" : "Ace Spirits",
+                    "price" : 44.99
+                }
+            ]
+        },
+        
+        {
+            "name" : "Dos Lunas Silver",
+            "image" : "dosLunasB.png",
+            "description" : "With more complexities than most blancos, Dos Lunas Silver has a lush herbal aroma and a medium body. At the end of each sip you'll enjoy a peppery finish.",
+            "info" : [
+                {
+                    "distiller" : "Tequila del Señor, S.A. de C.V.",
+                    "location" : "Guadalajara, Jalaisco, MX",
+                    "type" : "Blanco",
+                    "priceSource" : "Ace Spirits",
+                    "price" : 35.99
+                }
+            ]
+        },
+        
+        {
+            "name" : "Suaza Tres Generaciones Añejo",
+            "image" : "3genA.png",
+            "description" : "Tres Generaciones Añejo has a delicate amber hue owing to it's more than three years of aging. It has a smoky, smooth finish.",
+            "info" : [
+                {
+                    "distiller" : "Tequila Sauza, S.A. de C.V.",
+                    "location" : "Tequila, Jalisco, MX",
+                    "type" : "Añejo",
+                    "priceSource" : "Ace Spirits",
+                    "price" : 49.99
+                }
+            ]
+        },
+        
+        {
+            "name" : "Casa Noble Reposado",
+            "image" : "casaNobleR.png",
+            "description" : "A smooth and full bodied tequila, Casa Noble Reposado is aged for 364 days in French white oak barrels. It has a moderate level of sweetness and a hot finish.",
+            "info" : [
+                {
+                    "distiller" : "La Cofradia, S.A. de C.V.",
+                    "location" : "Tequila, Jalisco, MX",
+                    "type" : "Reposado",
+                    "priceSource" : "Ace Spirits",
+                    "price" : 59.99
+                }
+            ]
+        },
+        
+        {
+            "name" : "Don Julio Blanco",
+            "image" : "djulioB.png",
+            "description" : "A thick, lightly sweet blanco from the Don Julio line, established in 1942 by Don Julio  Gonzalez at the ripe old age of 17.",
+            "info" : [
+                {
+                    "distiller" : "Tequila Don Julio, S.A. de C.V.",
+                    "location" : "Atotonilco, Jalisco, MX",
+                    "type" : "Blanco",
+                    "priceSource" : "Ace Spirits",
+                    "price" : 49.99
+                }
+            ]
+        }
+    ]
+}
